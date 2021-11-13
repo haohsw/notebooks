@@ -1,2 +1,2 @@
-# LinkedInLearning
-LinkedIn Learning
+# LinkedIn Learning
+LinkedIn Learning Note
