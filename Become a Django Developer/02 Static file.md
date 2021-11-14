@@ -5,3 +5,11 @@
 ## Template files path
 ### Template files path following structure
 - `project/app/templates/app/index.html`
+## Static in html template
+- `{load static}`
+### Static file
+- `{static 'path/'}`
+### Loop
+-   `{for i in array:}`
+    `    i            `
+    `{endfor} `
