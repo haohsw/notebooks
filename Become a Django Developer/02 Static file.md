@@ -11,5 +11,5 @@
 - `{static 'path/'}`
 ### Loop
 -   `{for i in array:}`
-    `    i            `
-    `{endfor} `
+-   `    i            `
+-   `{endfor} `
